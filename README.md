@@ -2,7 +2,8 @@
 ## Sorting algorithms & Big O programing Language Training <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
 </br>
 
-ALX (Holberton School) Software Engineering [![Video Preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2FepFOQbH%2Fcomment%2F799426467&psig=AOvVaw1u4MLnSMY1-RNP2o2C8eRg&ust=1697557171738000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDzhbTz-oEDFQAAAAAdAAAAABBD)]
+ALX (Holberton School) Software Engineering <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2FepFOQbH%2Fcomment%2F799426467&psig=AOvVaw1u4MLnSMY1-RNP2o2C8eRg&ust=1697557171738000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDzhbTz-oEDFQAAAAAdAAAAABBD" alt="Your GIF">
+
 </br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
