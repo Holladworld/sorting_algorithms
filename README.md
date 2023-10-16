@@ -2,7 +2,7 @@
 ## Sorting algorithms & Big O programing Language Training <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
 </br>
 
-ALX (Holberton School) Software Engineering <img src="https://i.imgur.com/epFOQbH.mp4" alt="Your GIF">
+ALX (Holberton School) Software Engineering <img src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif" alt="Your GIF">
 
 </br>
 
