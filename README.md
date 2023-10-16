@@ -1,8 +1,7 @@
- https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif
 # Software Engineering Project
-## 0x1B. C - Sorting algorithms & Big O programing Language Training <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
+## Sorting algorithms & Big O programing Language Training <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
 </br>
-ALX (Holberton School) Software Engineering <img align='right' src=" https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
+ALX (Holberton School) Software Engineering <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
 </br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -13,7 +12,4 @@ ALX (Holberton School) Software Engineering <img align='right' src=" https://raw
 [![badgen](https://badgen.net/badge/icon/git?icon=git&label)](https://badgen.ne)
 </br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)                                                      
-~                                                                                                                                                    
-~                                                                                                                                                    
-~                                                                                                                                                    
-~                                                                  
+                                                           
