@@ -1,5 +1,5 @@
 # Software Engineering Project
-## Sorting algorithms & Big O programing Language Training <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
+## Sorting algorithms & Big O programing Language <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
 </br>
 
 ALX (Holberton School) Software Engineering <img src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif" alt="Your GIF">
