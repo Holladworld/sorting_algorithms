@@ -1,8 +1,8 @@
 # Software Engineering Project
 ## Sorting algorithms & Big O programing Language Training <img align='right' src="https://raw.githubusercontent.com/stoicaandrei/sorting-visualizer/master/content/demo.gif">
 </br>
-ALX (Holberton School) Software Engineering [![Video Preview](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)]
 
+ALX (Holberton School) Software Engineering [![Video Preview](https://img.youtube.com/vi/ZZuD6iUe3Pc/0.jpg)](https://www.youtube.com/watch?v=ZZuD6iUe3Pc)
 </br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
